@@ -1,8 +1,8 @@
 # Scripts to support retropie    
   
-| **Build** | **Coverage** |
-|---|---|
-| [![Build Status](https://travis-ci.org/OurFriendIrony/python-retropie.png)](https://travis-ci.org/OurFriendIrony/python-retropie) | [![codecov](https://codecov.io/gh/OurFriendIrony/python-retropie/branch/master/graph/badge.svg)](https://codecov.io/gh/OurFriendIrony/python-retropie) |
+| **License** | **Build** | **Coverage** |
+|---|---|---|
+| [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) | [![Build Status](https://travis-ci.org/OurFriendIrony/python-retropie.png)](https://travis-ci.org/OurFriendIrony/python-retropie) | [![codecov](https://codecov.io/gh/OurFriendIrony/python-retropie/branch/master/graph/badge.svg)](https://codecov.io/gh/OurFriendIrony/python-retropie) |
   
 ## Prereqs  
 `pip install -r requirements.txt`  
